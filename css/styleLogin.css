@@ -194,3 +194,10 @@ section .container.active .signinBx .imgBx {
     width: 100%;
   }
 }
+
+h1 {
+  font-family: 'Pathway Extreme', sans-serif;
+}
+h2  { 
+  font-family: 'Pathway Extreme', sans-serif;
+ }
