@@ -1,0 +1,17 @@
+.carousel-control-next{
+    background-color: grey ;
+}
+.carousel-control-prev{
+    background-color: gray;
+}
+.carousel-item {
+  position: relative;
+  transform: translateX(100%);
+  opacity: 0;
+  transition: transform 0.5s, opacity 0.5s;
+}
+
+.carousel-item.active {
+  transform: translateX(0);
+  opacity: 1;
+}

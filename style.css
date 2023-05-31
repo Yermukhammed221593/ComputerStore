@@ -1,0 +1,72 @@
+.hero-section {
+
+    
+    padding: 100px 0;
+  }
+   
+  .product-card {
+
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  
+  .product-card img {
+
+    margin-bottom: 20px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .feature-card {
+
+  
+    border: none;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5); 
+    padding: 10px;
+   }
+
+  
+  .feature-icon {
+    font-size: 4rem;
+    color: #007bff;
+    margin-bottom: 1rem;
+  }
+  
+  .card-title {
+
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  .card-text {
+    font-size: 1.1rem;
+    color: #000000;
+  }
+
+  body {
+    padding-top: 50px;
+
+    }
+  h1 {
+    font-family: 'Pathway Extreme', sans-serif;
+  }
+  h2  { 
+    font-family: 'Pathway Extreme', sans-serif;
+   }
+  .toggler { width: 200px; height: 200px; position: relative; }
+    #button { padding: .5em 1em; text-decoration: none; }
+    #effect { width: 350px; height: 200px; padding: 0.4em; position: relative; background: white; }
+    #effect h3 { margin: 0; padding: 0.4em; text-align: center; }
+  
+.intro {
+  width: 400px;
+  margin-top: 50px;
+}
+
+.player {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
